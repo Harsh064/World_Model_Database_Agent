@@ -191,8 +191,8 @@ Stored in a `.env` file:
 
 Sample questions are loaded from `sample_questions.json` to help agent to analyze different types of user’s  query intent. Examples:
 
-- "Show me transactions greater than 1000 for account 328304."
-- "List customer tiers and their benefits."
-- "Retrieve all customers with 'xyz@gmail.com' email."
+- "Show me transactions analysis for account id 328304."
+- "List customer tier details for account id 345123"
+- "Show the email of username harsh and show birthdate of username yash."
 
 ---
