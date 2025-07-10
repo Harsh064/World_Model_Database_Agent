@@ -1,4 +1,4 @@
-# 🧠 Conversational DB Agent
+# 🧠 Database Conversation Chatbot
 
 Chat with your **MongoDB** database using **natural language queries**! 
 
@@ -68,7 +68,7 @@ streamlit run app.py
 The app will open in your browser at `http://localhost:8501`.
 
 ---
-# 🧠 Conversational Database Agent - Architecture
+# 🧠 Database Conversation Chatbot - Architecture
 
 - The system allows users to chat with MongoDB database using natural language, powered by CrewAI Agents, HuggingFace Embeddings, Google Generative AI Chat Model, and Streamlit for an interactive UI.
 
