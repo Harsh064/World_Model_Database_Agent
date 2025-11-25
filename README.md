@@ -1,6 +1,6 @@
 # 🧠 Database Conversation Chatbot
 
-Chat with your **MongoDB** database using **natural language queries**! 
+Chat with your **MongoDB** database using **natural language queries**
 
     - This AI-powered agent understands user queries from natural language
 
