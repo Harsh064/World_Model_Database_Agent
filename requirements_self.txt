@@ -1,0 +1,8 @@
+streamlit
+langchain
+pymongo
+python-dotenv
+google-generativeai
+faiss-cpu
+crewai
+crewai_tools
